@@ -1,4 +1,4 @@
-# Python_lung_classfication
+# Python_Lung_classfication
 
 - 이미지 크롤링과 딥러닝을 이용한 정상폐/질병폐 분류
 - R_shiny를 이용한 홈페이지 구현
