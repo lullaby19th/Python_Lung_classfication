@@ -1,0 +1,2 @@
+0 'patient'
+1 'normal'
